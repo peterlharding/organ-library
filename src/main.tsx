@@ -5,6 +5,7 @@ import { createRoot } from 'react-dom/client'
 // ----------------------------------------------------------------------------
 
 import './index.css'
+import './styles/ol-theme.css'
 
 import App from './app/App.tsx'
 
